@@ -6,6 +6,14 @@
     "node",
     "me"
   ],
+  "homepage": "https://github.com/pk40819881/backend_first#readme",
+  "bugs": {
+    "url": "https://github.com/pk40819881/backend_first/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pk40819881/backend_first.git"
+  },
   "license": "ISC",
   "author": "prateek",
   "type": "commonjs",
